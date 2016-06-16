@@ -1,4 +1,4 @@
-echo 'Install docker on ubuntu14.04, created by PineWong, see more at https://github.com/pinewong'
+echo 'Install docker on ubuntu14.04, created by PineWong, see more at https://github.com/pinewong----------------------------------------------------------------'
 
 echo 'Prepare worker---------------------------------------'
 sudo apt-get update
